@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    padding: 0;/* padding: 0; = preenchimento  */ 
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+   
+  }
+
+  button {
+    padding: 12px 24px;
+    font-size: 18px;
+    margin: 0 auto
+  }
+ 
